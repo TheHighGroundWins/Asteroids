@@ -1,0 +1,8 @@
+﻿  Player.cpp
+c:\users\just a guy\documents\visual studio 2015\projects\asteroids\asteroids\player.cpp(22): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\just a guy\documents\visual studio 2015\projects\asteroids\asteroids\player.cpp(61): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\just a guy\documents\visual studio 2015\projects\asteroids\asteroids\player.cpp(62): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\just a guy\documents\visual studio 2015\projects\asteroids\asteroids\player.cpp(85): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\just a guy\documents\visual studio 2015\projects\asteroids\asteroids\player.cpp(86): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Asteroids.vcxproj -> C:\Users\Just a Guy\documents\visual studio 2015\Projects\Asteroids\Debug\Asteroids.exe
+  Asteroids.vcxproj -> C:\Users\Just a Guy\documents\visual studio 2015\Projects\Asteroids\Debug\Asteroids.pdb (Full PDB)
